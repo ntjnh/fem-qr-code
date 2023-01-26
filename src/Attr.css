@@ -1,0 +1,18 @@
+#root {
+    position: relative;
+}
+
+.attribution {
+    color: hsl(218, 44%, 22%);
+    font-size: 12px;
+    padding: 16px 24px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.attribution a {
+    color: hsl(218, 44%, 22%);
+}
